@@ -203,4 +203,4 @@ put_pixel_thick:
 
     pop ax
 
-    ret)
+    ret
